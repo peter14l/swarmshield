@@ -1,0 +1,1308 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "demo.js",
+      "file_type": "code",
+      "source_file": "demo.js",
+      "source_location": "L1",
+      "id": "demo_js",
+      "community": 2,
+      "norm_label": "demo.js"
+    },
+    {
+      "label": "shield",
+      "file_type": "code",
+      "source_file": "demo.js",
+      "source_location": "L5",
+      "id": "swarmshield_demo_shield",
+      "community": 2,
+      "norm_label": "shield"
+    },
+    {
+      "label": "runTasks()",
+      "file_type": "code",
+      "source_file": "demo.js",
+      "source_location": "L10",
+      "id": "swarmshield_demo_runtasks",
+      "community": 2,
+      "norm_label": "runtasks()"
+    },
+    {
+      "label": "sdk.js",
+      "file_type": "code",
+      "source_file": "sdk.js",
+      "source_location": "L1",
+      "id": "sdk_js",
+      "community": 2,
+      "norm_label": "sdk.js"
+    },
+    {
+      "label": "SwarmShieldClient",
+      "file_type": "code",
+      "source_file": "sdk.js",
+      "source_location": "L3",
+      "id": "swarmshield_sdk_swarmshieldclient",
+      "community": 2,
+      "norm_label": "swarmshieldclient"
+    },
+    {
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "sdk.js",
+      "source_location": "L4",
+      "id": "swarmshield_sdk_swarmshieldclient_constructor",
+      "community": 2,
+      "norm_label": ".constructor()"
+    },
+    {
+      "label": ".audit()",
+      "file_type": "code",
+      "source_file": "sdk.js",
+      "source_location": "L13",
+      "id": "swarmshield_sdk_swarmshieldclient_audit",
+      "community": 2,
+      "norm_label": ".audit()"
+    },
+    {
+      "label": "server.js",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L1",
+      "id": "server_js",
+      "community": 0,
+      "norm_label": "server.js"
+    },
+    {
+      "label": "app",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L4",
+      "id": "swarmshield_server_app",
+      "community": 0,
+      "norm_label": "app"
+    },
+    {
+      "label": "policies",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L11",
+      "id": "swarmshield_server_policies",
+      "community": 0,
+      "norm_label": "policies"
+    },
+    {
+      "label": "stats",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L18",
+      "id": "swarmshield_server_stats",
+      "community": 0,
+      "norm_label": "stats"
+    },
+    {
+      "label": "logs",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L24",
+      "id": "swarmshield_server_logs",
+      "community": 0,
+      "norm_label": "logs"
+    },
+    {
+      "label": "clients",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L25",
+      "id": "swarmshield_server_clients",
+      "community": 0,
+      "norm_label": "clients"
+    },
+    {
+      "label": "broadcastLog()",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L28",
+      "id": "swarmshield_server_broadcastlog",
+      "community": 0,
+      "norm_label": "broadcastlog()"
+    },
+    {
+      "label": "clientId",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L61",
+      "id": "swarmshield_server_clientid",
+      "community": 0,
+      "norm_label": "clientid"
+    },
+    {
+      "label": "auditLogs",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L76",
+      "id": "swarmshield_server_auditlogs",
+      "community": 0,
+      "norm_label": "auditlogs"
+    },
+    {
+      "label": "injectionPatterns",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L80",
+      "id": "swarmshield_server_injectionpatterns",
+      "community": 0,
+      "norm_label": "injectionpatterns"
+    },
+    {
+      "label": "dangerousPatterns",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L110",
+      "id": "swarmshield_server_dangerouspatterns",
+      "community": 0,
+      "norm_label": "dangerouspatterns"
+    },
+    {
+      "label": "now",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L127",
+      "id": "swarmshield_server_now",
+      "community": 0,
+      "norm_label": "now"
+    },
+    {
+      "label": "newLog",
+      "file_type": "code",
+      "source_file": "server.js",
+      "source_location": "L129",
+      "id": "swarmshield_server_newlog",
+      "community": 0,
+      "norm_label": "newlog"
+    },
+    {
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "vite.config.js",
+      "source_location": "L1",
+      "id": "vite_config_js",
+      "community": 6,
+      "norm_label": "vite.config.js"
+    },
+    {
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "src/App.jsx",
+      "source_location": "L1",
+      "id": "src_app_jsx",
+      "community": 3,
+      "norm_label": "app.jsx"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/src/App.jsx",
+      "source_location": "L20",
+      "id": "src_app_app",
+      "community": 3,
+      "norm_label": "app()"
+    },
+    {
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "src/main.jsx",
+      "source_location": "L1",
+      "id": "src_main_jsx",
+      "community": 3,
+      "norm_label": "main.jsx"
+    },
+    {
+      "label": "SimulatorEngine.js",
+      "file_type": "code",
+      "source_file": "src/utils/SimulatorEngine.js",
+      "source_location": "L1",
+      "id": "src_utils_simulatorengine_js",
+      "community": 3,
+      "norm_label": "simulatorengine.js"
+    },
+    {
+      "label": "ATTACK_TEMPLATES",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/src/utils/SimulatorEngine.js",
+      "source_location": "L1",
+      "id": "utils_simulatorengine_attack_templates",
+      "community": 3,
+      "norm_label": "attack_templates"
+    },
+    {
+      "label": "NORMAL_TEMPLATES",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/src/utils/SimulatorEngine.js",
+      "source_location": "L40",
+      "id": "utils_simulatorengine_normal_templates",
+      "community": 3,
+      "norm_label": "normal_templates"
+    },
+    {
+      "label": "evaluateSecurityPolicy()",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/src/utils/SimulatorEngine.js",
+      "source_location": "L70",
+      "id": "utils_simulatorengine_evaluatesecuritypolicy",
+      "community": 3,
+      "norm_label": "evaluatesecuritypolicy()"
+    },
+    {
+      "label": "server.js",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L1",
+      "id": "swarmshield_dashboard_server_js",
+      "community": 1,
+      "norm_label": "server.js"
+    },
+    {
+      "label": "app",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L4",
+      "id": "swarmshield_dashboard_server_app",
+      "community": 1,
+      "norm_label": "app"
+    },
+    {
+      "label": "policies",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L11",
+      "id": "swarmshield_dashboard_server_policies",
+      "community": 1,
+      "norm_label": "policies"
+    },
+    {
+      "label": "stats",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L18",
+      "id": "swarmshield_dashboard_server_stats",
+      "community": 1,
+      "norm_label": "stats"
+    },
+    {
+      "label": "logs",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L24",
+      "id": "swarmshield_dashboard_server_logs",
+      "community": 1,
+      "norm_label": "logs"
+    },
+    {
+      "label": "clients",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L25",
+      "id": "swarmshield_dashboard_server_clients",
+      "community": 1,
+      "norm_label": "clients"
+    },
+    {
+      "label": "broadcastLog()",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L27",
+      "id": "swarmshield_dashboard_server_broadcastlog",
+      "community": 1,
+      "norm_label": "broadcastlog()"
+    },
+    {
+      "label": "clientId",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L57",
+      "id": "swarmshield_dashboard_server_clientid",
+      "community": 1,
+      "norm_label": "clientid"
+    },
+    {
+      "label": "auditLogs",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L71",
+      "id": "swarmshield_dashboard_server_auditlogs",
+      "community": 1,
+      "norm_label": "auditlogs"
+    },
+    {
+      "label": "injectionPatterns",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L74",
+      "id": "swarmshield_dashboard_server_injectionpatterns",
+      "community": 1,
+      "norm_label": "injectionpatterns"
+    },
+    {
+      "label": "dangerousPatterns",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L102",
+      "id": "swarmshield_dashboard_server_dangerouspatterns",
+      "community": 1,
+      "norm_label": "dangerouspatterns"
+    },
+    {
+      "label": "now",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L118",
+      "id": "swarmshield_dashboard_server_now",
+      "community": 1,
+      "norm_label": "now"
+    },
+    {
+      "label": "newLog",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L120",
+      "id": "swarmshield_dashboard_server_newlog",
+      "community": 1,
+      "norm_label": "newlog"
+    },
+    {
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/vite.config.js",
+      "source_location": "L1",
+      "id": "swarmshield_dashboard_vite_config_js",
+      "community": 7,
+      "norm_label": "vite.config.js"
+    },
+    {
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/src/App.jsx",
+      "source_location": "L1",
+      "id": "swarmshield_dashboard_src_app_jsx",
+      "community": 3,
+      "norm_label": "app.jsx"
+    },
+    {
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/src/main.jsx",
+      "source_location": "L1",
+      "id": "swarmshield_dashboard_src_main_jsx",
+      "community": 3,
+      "norm_label": "main.jsx"
+    },
+    {
+      "label": "SimulatorEngine.js",
+      "file_type": "code",
+      "source_file": "swarmshield-dashboard/src/utils/SimulatorEngine.js",
+      "source_location": "L1",
+      "id": "swarmshield_dashboard_src_utils_simulatorengine_js",
+      "community": 3,
+      "norm_label": "simulatorengine.js"
+    },
+    {
+      "label": "index.js",
+      "file_type": "code",
+      "source_file": "swarmshield-sdk/index.js",
+      "source_location": "L1",
+      "id": "swarmshield_sdk_index_js",
+      "community": 2,
+      "norm_label": "index.js"
+    },
+    {
+      "label": "SwarmShieldClient",
+      "file_type": "code",
+      "source_file": "swarmshield-sdk/index.js",
+      "source_location": "L3",
+      "id": "swarmshield_sdk_index_swarmshieldclient",
+      "community": 2,
+      "norm_label": "swarmshieldclient"
+    },
+    {
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "swarmshield-sdk/index.js",
+      "source_location": "L4",
+      "id": "swarmshield_sdk_index_swarmshieldclient_constructor",
+      "community": 2,
+      "norm_label": ".constructor()"
+    },
+    {
+      "label": ".audit()",
+      "file_type": "code",
+      "source_file": "swarmshield-sdk/index.js",
+      "source_location": "L13",
+      "id": "swarmshield_sdk_index_swarmshieldclient_audit",
+      "community": 2,
+      "norm_label": ".audit()"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L1",
+      "id": "swarmshield_dashboard_readme_md",
+      "community": 4,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "SwarmShield Enterprise Dashboard",
+      "file_type": "document",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L1",
+      "id": "swarmshield_dashboard_readme_swarmshield_enterprise_dashboard",
+      "community": 4,
+      "norm_label": "swarmshield enterprise dashboard"
+    },
+    {
+      "label": "Getting Started",
+      "file_type": "document",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L7",
+      "id": "swarmshield_dashboard_readme_getting_started",
+      "community": 4,
+      "norm_label": "getting started"
+    },
+    {
+      "label": "code:bash (npm install)",
+      "file_type": "document",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L10",
+      "id": "swarmshield_dashboard_readme_codeblock_1",
+      "community": 4,
+      "norm_label": "code:bash (npm install)"
+    },
+    {
+      "label": "code:bash (npm run start)",
+      "file_type": "document",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L16",
+      "id": "swarmshield_dashboard_readme_codeblock_2",
+      "community": 4,
+      "norm_label": "code:bash (npm run start)"
+    },
+    {
+      "label": "code:bash (npm run dev)",
+      "file_type": "document",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L20",
+      "id": "swarmshield_dashboard_readme_codeblock_3",
+      "community": 4,
+      "norm_label": "code:bash (npm run dev)"
+    },
+    {
+      "label": "Ports Configuration",
+      "file_type": "document",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L24",
+      "id": "swarmshield_dashboard_readme_ports_configuration",
+      "community": 4,
+      "norm_label": "ports configuration"
+    },
+    {
+      "label": "Main Controls",
+      "file_type": "document",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L28",
+      "id": "swarmshield_dashboard_readme_main_controls",
+      "community": 4,
+      "norm_label": "main controls"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L1",
+      "id": "swarmshield_sdk_readme_md",
+      "community": 5,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "@swarmshield/sdk",
+      "file_type": "document",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L1",
+      "id": "swarmshield_sdk_readme_swarmshield_sdk",
+      "community": 5,
+      "norm_label": "@swarmshield/sdk"
+    },
+    {
+      "label": "Installation",
+      "file_type": "document",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L7",
+      "id": "swarmshield_sdk_readme_installation",
+      "community": 5,
+      "norm_label": "installation"
+    },
+    {
+      "label": "code:bash (npm install @swarmshield/sdk)",
+      "file_type": "document",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L9",
+      "id": "swarmshield_sdk_readme_codeblock_1",
+      "community": 5,
+      "norm_label": "code:bash (npm install @swarmshield/sdk)"
+    },
+    {
+      "label": "Quick Start",
+      "file_type": "document",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L13",
+      "id": "swarmshield_sdk_readme_quick_start",
+      "community": 5,
+      "norm_label": "quick start"
+    },
+    {
+      "label": "code:javascript (import { SwarmShieldClient } from '@swarmshield/sdk';)",
+      "file_type": "document",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L17",
+      "id": "swarmshield_sdk_readme_codeblock_2",
+      "community": 5,
+      "norm_label": "code:javascript (import { swarmshieldclient } from '@swarmshield/sdk';)"
+    },
+    {
+      "label": "Features",
+      "file_type": "document",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L44",
+      "id": "swarmshield_sdk_readme_features",
+      "community": 5,
+      "norm_label": "features"
+    },
+    {
+      "label": "License",
+      "file_type": "document",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L49",
+      "id": "swarmshield_sdk_readme_license",
+      "community": 5,
+      "norm_label": "license"
+    },
+    {
+      "label": "runAgentTasks()",
+      "file_type": "code",
+      "source_file": "demo.js",
+      "source_location": "L10",
+      "community": 2,
+      "norm_label": "runagenttasks()",
+      "id": "swarmshield_demo_runagenttasks"
+    }
+  ],
+  "links": [
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "demo.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "demo_js",
+      "target": "swarmshield_sdk_index_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "demo.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "demo_js",
+      "target": "swarmshield_sdk_index_swarmshieldclient",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "demo.js",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "demo_js",
+      "target": "swarmshield_demo_shield"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "demo.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "demo_js",
+      "target": "swarmshield_demo_runtasks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "demo.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "demo_js",
+      "target": "sdk_js"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "demo.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "demo_js",
+      "target": "swarmshield_sdk_swarmshieldclient"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "demo.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "demo_js",
+      "target": "swarmshield_demo_runagenttasks"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sdk.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sdk_js",
+      "target": "swarmshield_sdk_swarmshieldclient"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "sdk.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "swarmshield_sdk_swarmshieldclient",
+      "target": "swarmshield_sdk_swarmshieldclient_constructor"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "sdk.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "swarmshield_sdk_swarmshieldclient",
+      "target": "swarmshield_sdk_swarmshieldclient_audit"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_app"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_policies"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_stats"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_logs"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L25",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_clients"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_broadcastlog"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L61",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_clientid"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L76",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_auditlogs"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L80",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_injectionpatterns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L110",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_dangerouspatterns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L127",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_now"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server.js",
+      "source_location": "L129",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "server_js",
+      "target": "swarmshield_server_newlog"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_utils_simulatorengine_js"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_app_jsx",
+      "target": "utils_simulatorengine_attack_templates"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_app_jsx",
+      "target": "utils_simulatorengine_normal_templates"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_app_jsx",
+      "target": "utils_simulatorengine_evaluatesecuritypolicy"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L20",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_app_app"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_main_jsx",
+      "target": "src_app_jsx"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/src/App.jsx",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_src_app_jsx",
+      "target": "src_app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/utils/SimulatorEngine.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_utils_simulatorengine_js",
+      "target": "utils_simulatorengine_attack_templates"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/utils/SimulatorEngine.js",
+      "source_location": "L42",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_utils_simulatorengine_js",
+      "target": "utils_simulatorengine_normal_templates"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/utils/SimulatorEngine.js",
+      "source_location": "L76",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "src_utils_simulatorengine_js",
+      "target": "utils_simulatorengine_evaluatesecuritypolicy"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/src/App.jsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_src_app_jsx",
+      "target": "utils_simulatorengine_attack_templates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/src/utils/SimulatorEngine.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_src_utils_simulatorengine_js",
+      "target": "utils_simulatorengine_attack_templates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/src/App.jsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_src_app_jsx",
+      "target": "utils_simulatorengine_normal_templates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/src/utils/SimulatorEngine.js",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_src_utils_simulatorengine_js",
+      "target": "utils_simulatorengine_normal_templates",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/src/App.jsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_src_app_jsx",
+      "target": "utils_simulatorengine_evaluatesecuritypolicy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/src/utils/SimulatorEngine.js",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_src_utils_simulatorengine_js",
+      "target": "utils_simulatorengine_evaluatesecuritypolicy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_policies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_stats",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_logs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_clients",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_broadcastlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_clientid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_auditlogs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_injectionpatterns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_dangerouspatterns",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_now",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/server.js",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_server_js",
+      "target": "swarmshield_dashboard_server_newlog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/src/App.jsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_src_app_jsx",
+      "target": "swarmshield_dashboard_src_utils_simulatorengine_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/src/main.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_src_main_jsx",
+      "target": "swarmshield_dashboard_src_app_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-sdk/index.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "swarmshield_sdk_index_js",
+      "target": "swarmshield_sdk_index_swarmshieldclient",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-sdk/index.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "swarmshield_sdk_index_swarmshieldclient",
+      "target": "swarmshield_sdk_index_swarmshieldclient_constructor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-sdk/index.js",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "swarmshield_sdk_index_swarmshieldclient",
+      "target": "swarmshield_sdk_index_swarmshieldclient_audit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_readme_md",
+      "target": "swarmshield_dashboard_readme_swarmshield_enterprise_dashboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_readme_swarmshield_enterprise_dashboard",
+      "target": "swarmshield_dashboard_readme_getting_started",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_readme_swarmshield_enterprise_dashboard",
+      "target": "swarmshield_dashboard_readme_ports_configuration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_readme_swarmshield_enterprise_dashboard",
+      "target": "swarmshield_dashboard_readme_main_controls",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_readme_getting_started",
+      "target": "swarmshield_dashboard_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_readme_getting_started",
+      "target": "swarmshield_dashboard_readme_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-dashboard/README.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "swarmshield_dashboard_readme_getting_started",
+      "target": "swarmshield_dashboard_readme_codeblock_3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "swarmshield_sdk_readme_md",
+      "target": "swarmshield_sdk_readme_swarmshield_sdk",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "swarmshield_sdk_readme_swarmshield_sdk",
+      "target": "swarmshield_sdk_readme_installation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "swarmshield_sdk_readme_swarmshield_sdk",
+      "target": "swarmshield_sdk_readme_quick_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "swarmshield_sdk_readme_swarmshield_sdk",
+      "target": "swarmshield_sdk_readme_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "swarmshield_sdk_readme_swarmshield_sdk",
+      "target": "swarmshield_sdk_readme_license",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "swarmshield_sdk_readme_installation",
+      "target": "swarmshield_sdk_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "swarmshield-sdk/README.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "swarmshield_sdk_readme_quick_start",
+      "target": "swarmshield_sdk_readme_codeblock_2",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

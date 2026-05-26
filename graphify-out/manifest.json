@@ -1,0 +1,70 @@
+{
+  "C:\\Users\\peter\\swarmshield\\demo.js": {
+    "mtime": 1779818845.7461202,
+    "hash": "6acb1d4de643104b95f335f41c45149f"
+  },
+  "C:\\Users\\peter\\swarmshield\\sdk.js": {
+    "mtime": 1779818652.7270498,
+    "hash": "b75ab3673c5db9f130f632dd51a073e0"
+  },
+  "C:\\Users\\peter\\swarmshield\\server.js": {
+    "mtime": 1779818647.5107055,
+    "hash": "9fb76873a30b997e74811b22b24c905e"
+  },
+  "C:\\Users\\peter\\swarmshield\\vite.config.js": {
+    "mtime": 1779817614.9776468,
+    "hash": "2e80c146da57a7e5c3e181c2aeb536ea"
+  },
+  "C:\\Users\\peter\\swarmshield\\src\\App.jsx": {
+    "mtime": 1779818663.590294,
+    "hash": "ce0f0d91de0dde5bf0f05561ffab0718"
+  },
+  "C:\\Users\\peter\\swarmshield\\src\\main.jsx": {
+    "mtime": 1779817620.7235343,
+    "hash": "253d4db42a0b217629b29497cec5becb"
+  },
+  "C:\\Users\\peter\\swarmshield\\src\\utils\\SimulatorEngine.js": {
+    "mtime": 1779817627.2111652,
+    "hash": "f49b10746762b91ceb39c052b0a0f8f9"
+  },
+  "C:\\Users\\peter\\swarmshield\\swarmshield-dashboard\\server.js": {
+    "mtime": 1779818839.321358,
+    "hash": "3b551d7f209cd7abfc3cd185fcf9e8ca"
+  },
+  "C:\\Users\\peter\\swarmshield\\swarmshield-dashboard\\vite.config.js": {
+    "mtime": 1779818800.0464194,
+    "hash": "2e80c146da57a7e5c3e181c2aeb536ea"
+  },
+  "C:\\Users\\peter\\swarmshield\\swarmshield-dashboard\\src\\App.jsx": {
+    "mtime": 1779818832.502007,
+    "hash": "3920f99897242207ce7ef90f24e03dac"
+  },
+  "C:\\Users\\peter\\swarmshield\\swarmshield-dashboard\\src\\main.jsx": {
+    "mtime": 1779818813.6564488,
+    "hash": "253d4db42a0b217629b29497cec5becb"
+  },
+  "C:\\Users\\peter\\swarmshield\\swarmshield-dashboard\\src\\utils\\SimulatorEngine.js": {
+    "mtime": 1779818836.4046662,
+    "hash": "b19dd2edab42bc5cfebf32412e91f88d"
+  },
+  "C:\\Users\\peter\\swarmshield\\swarmshield-sdk\\index.js": {
+    "mtime": 1779818790.8549035,
+    "hash": "6665a43b21cc319229609b3895283893"
+  },
+  "C:\\Users\\peter\\swarmshield\\index.html": {
+    "mtime": 1779817616.7788997,
+    "hash": "e004e54b3f5cc6b673ef39f1e2b11068"
+  },
+  "C:\\Users\\peter\\swarmshield\\swarmshield-dashboard\\index.html": {
+    "mtime": 1779818804.4463186,
+    "hash": "562e278c85e19e12f745246f50137e14"
+  },
+  "C:\\Users\\peter\\swarmshield\\swarmshield-dashboard\\README.md": {
+    "mtime": 1779818842.5391414,
+    "hash": "a9e2cc384babf019889d1c575eb01da3"
+  },
+  "C:\\Users\\peter\\swarmshield\\swarmshield-sdk\\README.md": {
+    "mtime": 1779818794.755408,
+    "hash": "419655b92d49ddd90a9f83a9e7e93b8c"
+  }
+}

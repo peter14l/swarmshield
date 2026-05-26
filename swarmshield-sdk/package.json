@@ -1,0 +1,17 @@
+{
+  "name": "@swarmshield/sdk",
+  "version": "1.0.0",
+  "description": "Developer-first security & orchestration SDK for autonomous AI agents",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "ai",
+    "security",
+    "agent",
+    "guardrails",
+    "firewall",
+    "llm"
+  ],
+  "author": "SwarmShield Team",
+  "license": "MIT"
+}
